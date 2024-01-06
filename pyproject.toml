@@ -2,7 +2,7 @@
 name = "django-dave-gray"
 version = "0.1.0"
 description = ""
-authors = ["Vladimir Bredikhin <icvladimir.bredikhin@americanwell.com>"]
+authors = ["Vladimir Bredikhin <brutal.v4@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
